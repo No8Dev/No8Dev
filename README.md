@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @No8Dev
-- 👀 I’m interested in nerdy and geeky programming stuff
-- 🌱 I’m currently learning about cloud and command-line
+ O/   Hi, I’m @N⁰8 Dev
+/#
+ |\
 
-<!---
-No8Dev/No8Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nerdy and geeky programming stuff floats my boat
+I love creative c#
+I’m always learning
